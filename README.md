@@ -122,4 +122,4 @@ the ClickUp client covers the endpoints this pipeline needs rather than the whol
 
 [PolyForm Noncommercial 1.0.0](LICENSE) — source-available for study and noncommercial use. This is a portfolio/reference system, not a free product to repackage and resell. For commercial use, contact me.
 
-— Daniel Enache · [github.com/enached134-ctrl](https://github.com/enached134-ctrl)
+
